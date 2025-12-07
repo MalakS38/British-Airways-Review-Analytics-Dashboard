@@ -3,8 +3,7 @@ An Interactive Tableau Story Exploring Passenger Experience Through Data
 
 ---
 **Tableau Public:**  
-*(Intractive Dshboard](https://public.tableau.com/app/profile/malak.em/viz/BritishAirwaysReviewAnalytics/Dashboard1))*
-
+[Intractive Dashboard](https://public.tableau.com/app/profile/malak.em/viz/BritishAirwaysReviewAnalytics/Dashboard1)
 ---
 ## Project Overview
 

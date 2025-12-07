@@ -1,10 +1,9 @@
 ## British-Airways-Review-Analytics-Dashboard
 An Interactive Tableau Story Exploring Passenger Experience Through Data
 
----
-**Tableau Public:**  
 [Intractive Dashboard](https://public.tableau.com/app/profile/malak.em/viz/BritishAirwaysReviewAnalytics/Dashboard1)
----
+
+
 ## Project Overview
 
 This project analyzes British Airways customer reviews and transforms them into an interactive Tableau dashboard.

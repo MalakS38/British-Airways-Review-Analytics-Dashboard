@@ -7,28 +7,39 @@ An [Intractive Dashboard](https://public.tableau.com/app/profile/malak.em/viz/Br
 ## Project Overview
 
 This project analyzes British Airways customer reviews and transforms them into an interactive Tableau dashboard.
-The dashboard lets users explore:
+The dashboard allows users explore:
 
   - Ratings by country
-
   - Trends over time
-
   - Differences by aircraft type
-
   - Traveler type and seat class insights
 ---
 
 ## Objective
 
-The main goals of this project are to:
+The goal of this project is to build a **fully interactive Tableau dashboard** that:
 
-- Prepare two datasets (reviews + country mapping)  
-- Join and model the data in Tableau  
-- Create a dynamic *Pick a Metric* parameter  
-- Build key visualizations (map, KPIs, line chart, dual bar chart)  
-- Combine all visuals into one final dashboard for portfolio use
+- Consolidates multiple data sources (British Airways reviews + country mapping)  
+- Allows users to *dynamically select review metrics* (overall rating, food, entertainment, cabin staff, etc.)  
+- Provides filters for seat type, traveler type, aircraft, continent, and timeline  
+- Visualizes global trends and patterns in passenger sentiment  
+- Demonstrates data modeling, visualization design, and interactive storytelling 
 
 ---
+## Dataset Description
+
+### 1. British Airways Reviews (CSV) &  Country Mapping (CSV)
+Contains customer review data with columns including:
+
+- Date  
+- Country / Location  
+- Traveler Type  
+- Seat Type  
+- Aircraft  
+- Overall Rating  
+- Cabin Staff Service  
+- Entertainment  
+- Food & Beverage  
 
 ## Visuals Included
 
@@ -41,6 +52,4 @@ The main goals of this project are to:
 
 ## Credits
 Guidance: Mo Chen
-
-Thanks to **Mo Chen** for inspiration and contribution to this project.
 
